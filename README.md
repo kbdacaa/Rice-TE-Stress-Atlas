@@ -7,10 +7,12 @@
   - OGR foundation model: 25.6× embedding divergence at TE clusters
   - CTB2/CTB4a-DGK7 dual hotspot targeting membrane lipid sensing
 
-  **Manuscripts**:
-  - P5: *OGR Cross-Validation of TE Genotyping* (Genome Biology, 2026)
-  - P1: *TE Polymorphism Atlas of Rice Backbone Parents* (Molecular Plant, 2026)
-
+ **Analyses in this repository**:                                                                                                                                              
+  - OGR genomic foundation model × TE polymorphism cross-validation  
+  - Sliding window embedding analysis (Chr04 cold TE hotspot)
+  - 7×7 cross-stress TE directional concordance matrix
+  - NONA_BOKRA exclusive cold-protective TE identification
+  - Diagnostic TE marker panel for backbone parent classification
   **Data**: 26,697 TIPs × 7 stresses × 12 varieties. RICEPTEDB + RPRP + 3K Rice DB.
 
   **Contact**: [@kbdacaa](https://github.com/kbdacaa)
