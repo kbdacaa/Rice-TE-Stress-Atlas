@@ -1,0 +1,36 @@
+{
+  "test1": {
+    "MH63_NIP": 0.0082,
+    "MH63_NONA": 0.0177,
+    "NIP_NONA": 0.006
+  },
+  "test2_subspecies": {
+    "MH63": {
+      "d_ind": 0.0056,
+      "d_jap": 0.0062,
+      "pred": "INDICA",
+      "truth": "indica",
+      "ok": true
+    },
+    "NIP": {
+      "d_ind": 0.0076,
+      "d_jap": 0.0196,
+      "pred": "INDICA",
+      "truth": "japonica",
+      "ok": false
+    },
+    "NONA": {
+      "d_ind": 0.0052,
+      "d_jap": 0.0212,
+      "pred": "INDICA",
+      "truth": "aus",
+      "ok": true
+    }
+  },
+  "test3": {
+    "TE_MH63_NIP": 0.0058,
+    "TE_MH63_NONA": 0.1833,
+    "random_control": 0.0261,
+    "ratio": 0.22
+  }
+}

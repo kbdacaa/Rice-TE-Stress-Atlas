@@ -1,0 +1,17 @@
+{
+  "n_tes": 52,
+  "test1": {
+    "strong_within_mean": 0.04120629256129243,
+    "neutral_within_mean": 0.018458558637321855,
+    "cross_group_mean": 0.028821933412043726
+  },
+  "test2_spearman": {
+    "rho": -0.024787249873276147,
+    "p": 0.581818743873242
+  },
+  "test3": {
+    "protective_within": 0.04604920073751711,
+    "risk_within": 0.024895706508801838,
+    "centroid_distance": 0.001972549737693896
+  }
+}
