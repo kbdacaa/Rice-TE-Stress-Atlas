@@ -1,0 +1,1290 @@
+{
+  "cross_stress_concordance": {
+    "cold-disease": {
+      "n_sig_s1": 3689,
+      "n_sig_s2": 16982,
+      "n_both_sig": 1196,
+      "concordant": 953,
+      "conflicting": 243,
+      "concordant_pct": 79.7,
+      "conflicting_pct": 20.3,
+      "overlap_pct": 7.0
+    },
+    "cold-drought": {
+      "n_sig_s1": 3689,
+      "n_sig_s2": 5007,
+      "n_both_sig": 462,
+      "concordant": 48,
+      "conflicting": 414,
+      "concordant_pct": 10.4,
+      "conflicting_pct": 89.6,
+      "overlap_pct": 9.2
+    },
+    "cold-heat": {
+      "n_sig_s1": 3689,
+      "n_sig_s2": 4174,
+      "n_both_sig": 559,
+      "concordant": 0,
+      "conflicting": 559,
+      "concordant_pct": 0.0,
+      "conflicting_pct": 100.0,
+      "overlap_pct": 13.4
+    },
+    "cold-salinity": {
+      "n_sig_s1": 3689,
+      "n_sig_s2": 7926,
+      "n_both_sig": 533,
+      "concordant": 396,
+      "conflicting": 137,
+      "concordant_pct": 74.3,
+      "conflicting_pct": 25.7,
+      "overlap_pct": 6.7
+    },
+    "cold-submergence": {
+      "n_sig_s1": 3689,
+      "n_sig_s2": 14486,
+      "n_both_sig": 1492,
+      "concordant": 1019,
+      "conflicting": 473,
+      "concordant_pct": 68.3,
+      "conflicting_pct": 31.7,
+      "overlap_pct": 10.3
+    },
+    "cold-heavy_metal": {
+      "n_sig_s1": 3689,
+      "n_sig_s2": 13537,
+      "n_both_sig": 905,
+      "concordant": 905,
+      "conflicting": 0,
+      "concordant_pct": 100.0,
+      "conflicting_pct": 0.0,
+      "overlap_pct": 6.7
+    },
+    "disease-drought": {
+      "n_sig_s1": 16982,
+      "n_sig_s2": 5007,
+      "n_both_sig": 2691,
+      "concordant": 1985,
+      "conflicting": 706,
+      "concordant_pct": 73.8,
+      "conflicting_pct": 26.2,
+      "overlap_pct": 15.8
+    },
+    "disease-heat": {
+      "n_sig_s1": 16982,
+      "n_sig_s2": 4174,
+      "n_both_sig": 2388,
+      "concordant": 2207,
+      "conflicting": 181,
+      "concordant_pct": 92.4,
+      "conflicting_pct": 7.6,
+      "overlap_pct": 14.1
+    },
+    "disease-salinity": {
+      "n_sig_s1": 16982,
+      "n_sig_s2": 7926,
+      "n_both_sig": 6281,
+      "concordant": 6075,
+      "conflicting": 206,
+      "concordant_pct": 96.7,
+      "conflicting_pct": 3.3,
+      "overlap_pct": 37.0
+    },
+    "disease-submergence": {
+      "n_sig_s1": 16982,
+      "n_sig_s2": 14486,
+      "n_both_sig": 10412,
+      "concordant": 11,
+      "conflicting": 10401,
+      "concordant_pct": 0.1,
+      "conflicting_pct": 99.9,
+      "overlap_pct": 61.3
+    },
+    "disease-heavy_metal": {
+      "n_sig_s1": 16982,
+      "n_sig_s2": 13537,
+      "n_both_sig": 12603,
+      "concordant": 12603,
+      "conflicting": 0,
+      "concordant_pct": 100.0,
+      "conflicting_pct": 0.0,
+      "overlap_pct": 74.2
+    },
+    "drought-heat": {
+      "n_sig_s1": 5007,
+      "n_sig_s2": 4174,
+      "n_both_sig": 3124,
+      "concordant": 3124,
+      "conflicting": 0,
+      "concordant_pct": 100.0,
+      "conflicting_pct": 0.0,
+      "overlap_pct": 62.4
+    },
+    "drought-salinity": {
+      "n_sig_s1": 5007,
+      "n_sig_s2": 7926,
+      "n_both_sig": 760,
+      "concordant": 182,
+      "conflicting": 578,
+      "concordant_pct": 23.9,
+      "conflicting_pct": 76.1,
+      "overlap_pct": 9.6
+    },
+    "drought-submergence": {
+      "n_sig_s1": 5007,
+      "n_sig_s2": 14486,
+      "n_both_sig": 2229,
+      "concordant": 2188,
+      "conflicting": 41,
+      "concordant_pct": 98.2,
+      "conflicting_pct": 1.8,
+      "overlap_pct": 15.4
+    },
+    "drought-heavy_metal": {
+      "n_sig_s1": 5007,
+      "n_sig_s2": 13537,
+      "n_both_sig": 1035,
+      "concordant": 108,
+      "conflicting": 927,
+      "concordant_pct": 10.4,
+      "conflicting_pct": 89.6,
+      "overlap_pct": 7.6
+    },
+    "heat-salinity": {
+      "n_sig_s1": 4174,
+      "n_sig_s2": 7926,
+      "n_both_sig": 838,
+      "concordant": 751,
+      "conflicting": 87,
+      "concordant_pct": 89.6,
+      "conflicting_pct": 10.4,
+      "overlap_pct": 10.6
+    },
+    "heat-submergence": {
+      "n_sig_s1": 4174,
+      "n_sig_s2": 14486,
+      "n_both_sig": 1480,
+      "concordant": 973,
+      "conflicting": 507,
+      "concordant_pct": 65.7,
+      "conflicting_pct": 34.3,
+      "overlap_pct": 10.2
+    },
+    "heat-heavy_metal": {
+      "n_sig_s1": 4174,
+      "n_sig_s2": 13537,
+      "n_both_sig": 561,
+      "concordant": 376,
+      "conflicting": 185,
+      "concordant_pct": 67.0,
+      "conflicting_pct": 33.0,
+      "overlap_pct": 4.1
+    },
+    "salinity-submergence": {
+      "n_sig_s1": 7926,
+      "n_sig_s2": 14486,
+      "n_both_sig": 5908,
+      "concordant": 156,
+      "conflicting": 5752,
+      "concordant_pct": 2.6,
+      "conflicting_pct": 97.4,
+      "overlap_pct": 40.8
+    },
+    "salinity-heavy_metal": {
+      "n_sig_s1": 7926,
+      "n_sig_s2": 13537,
+      "n_both_sig": 6508,
+      "concordant": 6501,
+      "conflicting": 7,
+      "concordant_pct": 99.9,
+      "conflicting_pct": 0.1,
+      "overlap_pct": 48.1
+    },
+    "submergence-heavy_metal": {
+      "n_sig_s1": 14486,
+      "n_sig_s2": 13537,
+      "n_both_sig": 9779,
+      "concordant": 4,
+      "conflicting": 9775,
+      "concordant_pct": 0.0,
+      "conflicting_pct": 100.0,
+      "overlap_pct": 67.5
+    }
+  },
+  "nona_bokra_unique_tes": {
+    "total_count": 728,
+    "het_count": 0,
+    "hom_alt_count": 728,
+    "chromosome_distribution": {
+      "Chr01": 78,
+      "Chr02": 69,
+      "Chr03": 69,
+      "Chr04": 66,
+      "Chr05": 53,
+      "Chr06": 61,
+      "Chr07": 70,
+      "Chr08": 84,
+      "Chr09": 24,
+      "Chr10": 81,
+      "Chr11": 50,
+      "Chr12": 23
+    },
+    "stress_associations": {
+      "cold": {
+        "count": 728,
+        "protective": 728,
+        "risk": 0
+      },
+      "disease": {
+        "count": 0,
+        "protective": 0,
+        "risk": 0
+      },
+      "drought": {
+        "count": 0,
+        "protective": 0,
+        "risk": 0
+      },
+      "heat": {
+        "count": 0,
+        "protective": 0,
+        "risk": 0
+      },
+      "salinity": {
+        "count": 0,
+        "protective": 0,
+        "risk": 0
+      },
+      "submergence": {
+        "count": 0,
+        "protective": 0,
+        "risk": 0
+      },
+      "heavy_metal": {
+        "count": 0,
+        "protective": 0,
+        "risk": 0
+      }
+    },
+    "te_type_distribution": {
+      "INS|1=LTR/Gypsy": 131,
+      "INS|1=MITE/Tourist": 60,
+      "ALLEL|1=LTR/Gypsy": 47,
+      "ALLEL|1=MITE/Tourist": 40,
+      "INS|1=DNA/Helitron": 40,
+      "INS|1=DNAnona/MULE": 32,
+      "INS|1=LTR/Copia": 24,
+      "ALLEL|1=DNA/Helitron": 23,
+      "ALLEL|1=DNAnona/MULE": 21,
+      "INS|1=DNAnona/hAT": 17,
+      "INS|1=MITE/Stow": 17,
+      "INS|1=LTR/Gypsy,LTR/unknown": 13,
+      "ALLEL|1=LTR/Copia": 9,
+      "ALLEL|1=MITE/Stow": 9,
+      "INS|1=DNAauto/hAT": 9,
+      "INS|1=LTR/unknown,LTR/Gypsy": 8,
+      "INS|1=DNAauto/MULE,MITE/Tourist": 7,
+      "ALLEL|1=DNAnona/hAT": 7,
+      "INS|1=DNAauto/MULE": 7,
+      "INS|1=DNAauto/POLE": 6
+    },
+    "top_20_unique_tes": [
+      {
+        "chrom": "Chr01",
+        "pos": 97986,
+        "vcf_id": "OsTIP01G0000070",
+        "n_genotype": "hom_alt",
+        "te_type": "INS|1=LTR/Gypsy",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 279022,
+        "vcf_id": "OsTIP01G0000200",
+        "n_genotype": "hom_alt",
+        "te_type": "INS|1=LTR/Copia,DNAnona/hAT,DNAauto/hAT",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 969156,
+        "vcf_id": "OsTIP01G0000960",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|1=LTR/Copia",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1239258,
+        "vcf_id": "OsTIP01G0001230",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|0:DNAnona/MULE,LTR/Gypsy::1:DNAnona/MULE,MITE/Tourist",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1243584,
+        "vcf_id": "OsTIP01G0001250",
+        "n_genotype": "hom_alt",
+        "te_type": "INS|1=DNAnona/MULE,DNAnona/MULEtir",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1243845,
+        "vcf_id": "OsTIP01G0001260",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|1=MITE/Tourist",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1245354,
+        "vcf_id": "OsTIP01G0001270",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|0:DNAnona/MULEtir::1:LTR/Gypsy,MITE/Tourist",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1248025,
+        "vcf_id": "OsTIP01G0001290",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|1=DNAnona/MULE",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1259532,
+        "vcf_id": "OsTIP01G0001320",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|0:DNAnona/MULE::1:MITE/Tourist",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1314270,
+        "vcf_id": "OsTIP01G0001330",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|0:DNAnona/MULE,DNAnona/Tourist,DNA/Helitron::1:MITE/Tourist,LTR/Gypsy,MITE/Stow,DNA/Helitron",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1317607,
+        "vcf_id": "OsTIP01G0001340",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|1=DNA/Helitron",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1319921,
+        "vcf_id": "OsTIP01G0001360",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|1=MITE/Stow",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1320070,
+        "vcf_id": "OsTIP01G0001370",
+        "n_genotype": "hom_alt",
+        "te_type": "INS|1=DNA/Helitron",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1320662,
+        "vcf_id": "OsTIP01G0001380",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|1=MITE/Tourist",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1320835,
+        "vcf_id": "OsTIP01G0001390",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|1=LTR/Gypsy",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1321277,
+        "vcf_id": "OsTIP01G0001400",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|1=MITE/Tourist",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1333188,
+        "vcf_id": "OsTIP01G0001420",
+        "n_genotype": "hom_alt",
+        "te_type": "ALLEL|1=MITE/Tourist",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1333482,
+        "vcf_id": "OsTIP01G0001430",
+        "n_genotype": "hom_alt",
+        "te_type": "INS|1=DNA/Helitron",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1341648,
+        "vcf_id": "OsTIP01G0001450",
+        "n_genotype": "hom_alt",
+        "te_type": "INS|1=DNAnona/hAT",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      },
+      {
+        "chrom": "Chr01",
+        "pos": 1344339,
+        "vcf_id": "OsTIP01G0001460",
+        "n_genotype": "hom_alt",
+        "te_type": "INS|1=DNAnona/CACTA,DNAnona/CACTG,DNA/Helitron,MITE/Tourist",
+        "gts": {
+          "MH63": "0",
+          "T": "0",
+          "Y": "0",
+          "M": "0",
+          "N": "1",
+          "NJ": "0",
+          "KO": "0",
+          "C": "0",
+          "K": "0",
+          "R": "0",
+          "TB": "0",
+          "L": "0"
+        }
+      }
+    ]
+  },
+  "te_superfamily_enrichment": {
+    "cold": [
+      {
+        "superfamily": "0:LTR/Gypsy",
+        "fold_change": 0.51,
+        "observed": 6,
+        "expected": 11.7,
+        "p_value": 0.0817,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Tourist::1:MITE/Tourist",
+        "fold_change": 0.54,
+        "observed": 6,
+        "expected": 11.2,
+        "p_value": 0.1063,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNA/Helitron",
+        "fold_change": 0.61,
+        "observed": 13,
+        "expected": 21.4,
+        "p_value": 0.0474,
+        "significant": true
+      },
+      {
+        "superfamily": "1=DNAauto/CACTG",
+        "fold_change": 0.7,
+        "observed": 22,
+        "expected": 31.2,
+        "p_value": 0.0809,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAnona/PILE",
+        "fold_change": 0.72,
+        "observed": 19,
+        "expected": 26.3,
+        "p_value": 0.1395,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/POLE",
+        "fold_change": 0.77,
+        "observed": 22,
+        "expected": 28.5,
+        "p_value": 0.2233,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/PILE",
+        "fold_change": 0.78,
+        "observed": 12,
+        "expected": 15.5,
+        "p_value": 0.4105,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/CACTA",
+        "fold_change": 0.78,
+        "observed": 23,
+        "expected": 29.6,
+        "p_value": 0.2318,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/hAT",
+        "fold_change": 0.8,
+        "observed": 5,
+        "expected": 6.2,
+        "p_value": 0.8281,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAnona/unknown",
+        "fold_change": 0.84,
+        "observed": 38,
+        "expected": 45.3,
+        "p_value": 0.26,
+        "significant": false
+      }
+    ],
+    "disease": [
+      {
+        "superfamily": "0:DNAnona/hAT::1:MITE/Stow",
+        "fold_change": 0.71,
+        "observed": 5,
+        "expected": 7.0,
+        "p_value": 0.2235,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/unknown",
+        "fold_change": 0.79,
+        "observed": 9,
+        "expected": 11.4,
+        "p_value": 0.2313,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Stow::1:DNA/Helitron",
+        "fold_change": 0.81,
+        "observed": 19,
+        "expected": 23.5,
+        "p_value": 0.1265,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAnona/POLE",
+        "fold_change": 0.81,
+        "observed": 17,
+        "expected": 21.0,
+        "p_value": 0.1518,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNA/Helitron::1:MITE/Stow",
+        "fold_change": 0.82,
+        "observed": 13,
+        "expected": 15.9,
+        "p_value": 0.2978,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNA/Helitron::1:MITE/Tourist",
+        "fold_change": 0.83,
+        "observed": 18,
+        "expected": 21.6,
+        "p_value": 0.2135,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/MULE::1:DNAnona/MULE",
+        "fold_change": 0.86,
+        "observed": 24,
+        "expected": 28.0,
+        "p_value": 0.2133,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/PILE",
+        "fold_change": 0.87,
+        "observed": 62,
+        "expected": 71.2,
+        "p_value": 0.0763,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Tourist::1:DNA/Helitron",
+        "fold_change": 0.91,
+        "observed": 19,
+        "expected": 21.0,
+        "p_value": 0.4737,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/POLE",
+        "fold_change": 0.91,
+        "observed": 119,
+        "expected": 131.0,
+        "p_value": 0.0815,
+        "significant": false
+      }
+    ],
+    "drought": [
+      {
+        "superfamily": "1=DNAauto/POLE",
+        "fold_change": 0.62,
+        "observed": 24,
+        "expected": 38.6,
+        "p_value": 0.0071,
+        "significant": true
+      },
+      {
+        "superfamily": "0:LTR/Gypsy::1:LTR/Gypsy",
+        "fold_change": 0.67,
+        "observed": 15,
+        "expected": 22.5,
+        "p_value": 0.0795,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/MLE",
+        "fold_change": 0.7,
+        "observed": 5,
+        "expected": 7.1,
+        "p_value": 0.5317,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNA/Helitron::1:DNA/Helitron",
+        "fold_change": 0.79,
+        "observed": 11,
+        "expected": 13.9,
+        "p_value": 0.4576,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/PILE",
+        "fold_change": 0.81,
+        "observed": 17,
+        "expected": 21.0,
+        "p_value": 0.3957,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/hAT",
+        "fold_change": 0.83,
+        "observed": 7,
+        "expected": 8.4,
+        "p_value": 0.7041,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/MULE",
+        "fold_change": 0.88,
+        "observed": 119,
+        "expected": 135.0,
+        "p_value": 0.1334,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Tourist::1:MITE/Stow",
+        "fold_change": 0.89,
+        "observed": 5,
+        "expected": 5.6,
+        "p_value": 1.0,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNA/Helitron",
+        "fold_change": 0.89,
+        "observed": 26,
+        "expected": 29.1,
+        "p_value": 0.6059,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/CACTA",
+        "fold_change": 0.9,
+        "observed": 36,
+        "expected": 40.1,
+        "p_value": 0.5381,
+        "significant": false
+      }
+    ],
+    "heat": [
+      {
+        "superfamily": "1=DNAauto/POLE",
+        "fold_change": 0.59,
+        "observed": 19,
+        "expected": 32.2,
+        "p_value": 0.0091,
+        "significant": true
+      },
+      {
+        "superfamily": "0:MITE/Tourist::1:MITE/Tourist",
+        "fold_change": 0.71,
+        "observed": 9,
+        "expected": 12.7,
+        "p_value": 0.3562,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/PILE",
+        "fold_change": 0.74,
+        "observed": 13,
+        "expected": 17.5,
+        "p_value": 0.2962,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNA/Helitron",
+        "fold_change": 0.74,
+        "observed": 18,
+        "expected": 24.2,
+        "p_value": 0.1838,
+        "significant": false
+      },
+      {
+        "superfamily": "0:LTR/unknown",
+        "fold_change": 0.8,
+        "observed": 5,
+        "expected": 6.3,
+        "p_value": 0.8268,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Stow::1:MITE/Stow",
+        "fold_change": 0.84,
+        "observed": 5,
+        "expected": 5.9,
+        "p_value": 0.825,
+        "significant": false
+      },
+      {
+        "superfamily": "0:LTR/Gypsy::1:LTR/Gypsy",
+        "fold_change": 0.85,
+        "observed": 16,
+        "expected": 18.8,
+        "p_value": 0.6137,
+        "significant": false
+      },
+      {
+        "superfamily": "1=MITE/Stow",
+        "fold_change": 0.93,
+        "observed": 216,
+        "expected": 232.2,
+        "p_value": 0.2396,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNA/Helitron::1:MITE/Tourist",
+        "fold_change": 0.94,
+        "observed": 5,
+        "expected": 5.3,
+        "p_value": 1.0,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/MULE",
+        "fold_change": 0.94,
+        "observed": 106,
+        "expected": 112.6,
+        "p_value": 0.5325,
+        "significant": false
+      }
+    ],
+    "salinity": [
+      {
+        "superfamily": "0:LTR/Gypsy::1:LTR/Gypsy",
+        "fold_change": 0.59,
+        "observed": 21,
+        "expected": 35.6,
+        "p_value": 0.0026,
+        "significant": true
+      },
+      {
+        "superfamily": "0:LTR/unknown",
+        "fold_change": 0.67,
+        "observed": 8,
+        "expected": 11.9,
+        "p_value": 0.2256,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Tourist::1:MITE/Tourist",
+        "fold_change": 0.71,
+        "observed": 17,
+        "expected": 24.0,
+        "p_value": 0.0892,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/MULE",
+        "fold_change": 0.71,
+        "observed": 21,
+        "expected": 29.4,
+        "p_value": 0.0771,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Tourist::1:DNAnona/MULE",
+        "fold_change": 0.72,
+        "observed": 6,
+        "expected": 8.3,
+        "p_value": 0.412,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Stow::1:DNA/Helitron",
+        "fold_change": 0.73,
+        "observed": 8,
+        "expected": 11.0,
+        "p_value": 0.3682,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/hAT",
+        "fold_change": 0.75,
+        "observed": 10,
+        "expected": 13.4,
+        "p_value": 0.3285,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/hAT",
+        "fold_change": 0.8,
+        "observed": 60,
+        "expected": 75.4,
+        "p_value": 0.0326,
+        "significant": true
+      },
+      {
+        "superfamily": "0:MITE/Stow",
+        "fold_change": 0.81,
+        "observed": 19,
+        "expected": 23.5,
+        "p_value": 0.324,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAnona/POLE",
+        "fold_change": 0.82,
+        "observed": 8,
+        "expected": 9.8,
+        "p_value": 0.5715,
+        "significant": false
+      }
+    ],
+    "submergence": [
+      {
+        "superfamily": "1=DNAauto/POLE",
+        "fold_change": 0.51,
+        "observed": 57,
+        "expected": 111.8,
+        "p_value": 0.0,
+        "significant": true
+      },
+      {
+        "superfamily": "0:LTR/Gypsy::1:MITE/Tourist",
+        "fold_change": 0.54,
+        "observed": 5,
+        "expected": 9.2,
+        "p_value": 0.0504,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/CACTA",
+        "fold_change": 0.61,
+        "observed": 5,
+        "expected": 8.1,
+        "p_value": 0.1232,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNA/Helitron::1:MITE/Stow",
+        "fold_change": 0.66,
+        "observed": 9,
+        "expected": 13.6,
+        "p_value": 0.0729,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/unknown",
+        "fold_change": 0.72,
+        "observed": 7,
+        "expected": 9.8,
+        "p_value": 0.2382,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Stow::1:DNA/Helitron",
+        "fold_change": 0.9,
+        "observed": 18,
+        "expected": 20.1,
+        "p_value": 0.5129,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/MULE::1:DNA/Helitron",
+        "fold_change": 0.92,
+        "observed": 9,
+        "expected": 9.8,
+        "p_value": 0.8145,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/MULE::1:DNAnona/MULE",
+        "fold_change": 0.92,
+        "observed": 22,
+        "expected": 23.9,
+        "p_value": 0.6502,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/hAT::1:MITE/Tourist",
+        "fold_change": 0.92,
+        "observed": 5,
+        "expected": 5.4,
+        "p_value": 1.0,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAauto/MULE",
+        "fold_change": 0.93,
+        "observed": 365,
+        "expected": 390.7,
+        "p_value": 0.0531,
+        "significant": false
+      }
+    ],
+    "heavy_metal": [
+      {
+        "superfamily": "0:LTR/Gypsy::1:MITE/Tourist",
+        "fold_change": 0.58,
+        "observed": 5,
+        "expected": 8.6,
+        "p_value": 0.092,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNA/Helitron::1:MITE/Stow",
+        "fold_change": 0.63,
+        "observed": 8,
+        "expected": 12.7,
+        "p_value": 0.072,
+        "significant": false
+      },
+      {
+        "superfamily": "1=DNAnona/POLE",
+        "fold_change": 0.66,
+        "observed": 11,
+        "expected": 16.7,
+        "p_value": 0.0548,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNA/Helitron::1:MITE/Tourist",
+        "fold_change": 0.7,
+        "observed": 12,
+        "expected": 17.2,
+        "p_value": 0.0859,
+        "significant": false
+      },
+      {
+        "superfamily": "0:DNAnona/MULE::1:MITE/Tourist",
+        "fold_change": 0.79,
+        "observed": 8,
+        "expected": 10.1,
+        "p_value": 0.3773,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Tourist::1:DNA/Helitron",
+        "fold_change": 0.84,
+        "observed": 14,
+        "expected": 16.7,
+        "p_value": 0.386,
+        "significant": false
+      },
+      {
+        "superfamily": "0:LTR/unknown",
+        "fold_change": 0.84,
+        "observed": 17,
+        "expected": 20.3,
+        "p_value": 0.3436,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Tourist::1:DNAnona/MULE",
+        "fold_change": 0.85,
+        "observed": 12,
+        "expected": 14.2,
+        "p_value": 0.4529,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Stow",
+        "fold_change": 0.85,
+        "observed": 34,
+        "expected": 40.1,
+        "p_value": 0.178,
+        "significant": false
+      },
+      {
+        "superfamily": "0:MITE/Stow::1:DNA/Helitron",
+        "fold_change": 0.85,
+        "observed": 16,
+        "expected": 18.8,
+        "p_value": 0.4125,
+        "significant": false
+      }
+    ]
+  }
+}
